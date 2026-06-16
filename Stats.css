@@ -1,0 +1,14 @@
+.stats{
+  background: #0f172a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.stat-box h1{
+  font-size: 55px;
+  color: #38bdf8;
+}
